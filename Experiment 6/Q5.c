@@ -18,9 +18,7 @@ void main()
 {
     char str[100];
     printf("Enter a string: ");
-    gets(str); // Using gets as it's often used in academic settings, though fgets is safer.
-    
-    REVERSE(str);
-    
+    gets(str);     
+    REVERSE(str);    
     printf("Reversed string: %s\n", str);
 }

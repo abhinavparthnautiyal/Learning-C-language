@@ -20,5 +20,5 @@ void main()
     scanf("%d", &num);
     printf("The series as follows:\n");
     printf("0, 1, ");
-    FIBO(num-2, a, b);
+    FIBO(num, a, b);
 }

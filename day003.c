@@ -14,7 +14,7 @@ Input:
 5
 10 20 30 40 50
 30
-
+ 
 Output:
 Found at index 2
 Comparisons = 3
